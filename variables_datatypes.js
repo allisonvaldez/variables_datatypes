@@ -26,3 +26,5 @@ let thing;
 
 console.log(typeof thing);
 
+//returns undefined
+

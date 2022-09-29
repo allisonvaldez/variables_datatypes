@@ -1,5 +1,3 @@
-const prompt = require("prompt-sync")({ sigint: true });
-
 let name = "Allison";
 
 //let name = "Boobear";
